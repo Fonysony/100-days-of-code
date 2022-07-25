@@ -26,10 +26,10 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 
 ---
 
-| Day: | Links:               | Tech/Language Used:            | Status: |
+| Day: | Links:               | Tech/Language Used:            |         |
 | ---- | -------------------- | ------------------------------ | ------- |
-| 1    | [Day 1:](#day-1)     | JS, C++, TS                    | Ongoing |
-| 2    | [Day 2:](#day-2)     |                                |         |
+| 1    | [Day 1:](#day-1)     | JS, C++, TS                    |         |
+| 2    | [Day 2:](#day-2)     | C++, html, css, JS             |         |
 | 3    | [Day 3:](#day-3)     |                                |         |
 | 4    | [Day 4:](#day-4)     |                                |         |
 | 5    | [Day 5:](#day-5)     |                                |         |
@@ -139,7 +139,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 Saturday, July 23, 2022
 
 **Todays Progress:**
-- Worked on this Leetcode problem, but couldn't solve at the time. [Can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
+- Worked on this Leetcode problem, but couldn't it solve at the time. [Can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
 - Worked with a friend on [codechef](https://www.codechef.com/) [Insurance](https://www.codechef.com/JULY222D/problems/INSURANCE) problem. Was able to solve this one in C++.
 - Went over the [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) with a friend and actually started to understand inserting arrays when we attempted to do the algorithm by hand.
 - Attempted to use a [zipcodes](https://github.com/davglass/zipcodes) GitHub repo to implement a zipcode search, but I struggling to get TypeScript to work. I never knew how much harder TypeScript could be until this day 😅.
@@ -147,4 +147,20 @@ Saturday, July 23, 2022
 **What I Learned:**
 - If I'm gonna be doing this for 100 days, I need to keep everything simple and at least just to put 1 hour a day even if I lose sleep 😢!! Can't let one day miss or it's game over 👾!
 
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 2:
+
+Sunday, July 24, 2022
+
+**Todays Progress:**
+- Learned some C++ with a buddy on an amazing website called [replit](https://replit.com/) to code along together!
+- Moved all my photos out of my mid 2012 13inch Macbook Pro to a hard-drive. I looked into Arch Linux some more and wanted to download on my Macbook Pro.
+- Spent 4 hours on this [coursehero](https://www.coursehero.com/register/) website where I saved the page as a complete webpage so, I could actually see all the code. I had delete so many files and format so many files. A lot of the files are minified so, I had to figure-out what they did, by moving them in a trash folder and seeing what happened. I got it all cleaned up though and it was worth it! I hope to check it out and see what I can learn from it.
+
+**What I Learned:**
+- Working with people can really help inspire to do more thing, but also waste some time if you're not careful. Just don't keep talking all day long and not do anything.
+- I can actually download the code and clean it up just to see how a website works! I hope to soon rewrite the whole code my own way so, that I know I truly understand it. 
 [⬆️ back to the top ](#log)
