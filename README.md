@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - William Santos
+# #100DaysOfCode Log
 
 Today is Saturday, July 23, 2022 @ 11:28 24hrs.
 
@@ -139,7 +139,11 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 Saturday, July 23, 2022
 
 **Todays Progress:**
+<<<<<<< HEAD
 - Worked on this Leetcode problem, but couldn't it solve at the time. [Can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
+=======
+- Worked on this Leetcode problem, but couldn't solve it at the time. [Can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
+>>>>>>> 2a8dc4992d7d7fd03f419c9671c8392ddb45a7db
 - Worked with a friend on [codechef](https://www.codechef.com/) [Insurance](https://www.codechef.com/JULY222D/problems/INSURANCE) problem. Was able to solve this one in C++.
 - Went over the [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) with a friend and actually started to understand inserting arrays when we attempted to do the algorithm by hand.
 - Attempted to use a [zipcodes](https://github.com/davglass/zipcodes) GitHub repo to implement a zipcode search, but I struggling to get TypeScript to work. I never knew how much harder TypeScript could be until this day 😅.
