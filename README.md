@@ -164,3 +164,23 @@ Sunday, July 24, 2022
 - Working with people can really help inspire to do more thing, but also waste some time if you're not careful. Just don't keep talking all day long and not do anything.
 - I can actually download the code and clean it up just to see how a website works! I hope to soon rewrite the whole code my own way so, that I know I truly understand it. 
 [⬆️ back to the top ](#log)
+
+---
+
+### Day 3:
+
+Monday, July 25, 2022
+
+**Todays Progress:**
+- Was help a friend with solving a Leetcode problem that I already was doing. [duplicate zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
+- Worked on the course hero html and css and I tried to learn from their code.
+- Talked to and invited a bunch more people to this coding group I'm in.
+-
+
+**What I Learned:**
+- I gotta be more satisfied with what I'm doing. I feel overwhelmed with all that I'm doing and don't let myself feel accomplished when finish things.
+- Gotta attempt to stay more organized and simpler so, things can run more smoothly so, I don't get so burn-out as much.
+
+[⬆️ back to the top ](#log)
+
+---
