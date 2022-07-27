@@ -30,8 +30,8 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | ---- | -------------------- | ------------------------------ | ------- |
 | 1    | [Day 1:](#day-1)     | JS, C++, TS                    |         |
 | 2    | [Day 2:](#day-2)     | C++, html, css, JS             |         |
-| 3    | [Day 3:](#day-3)     |                                |         |
-| 4    | [Day 4:](#day-4)     |                                |         |
+| 3    | [Day 3:](#day-3)     | JS, html, css                  |         |
+| 4    | [Day 4:](#day-4)     | html, css, Arch                |         |
 | 5    | [Day 5:](#day-5)     |                                |         |
 | 6    | [Day 6:](#day-6)     |                                |         |
 | 7    | [Day 7:](#day-7)     |                                |         |
@@ -180,6 +180,23 @@ Monday, July 25, 2022
 **What I Learned:**
 - I gotta be more satisfied with what I'm doing. I feel overwhelmed with all that I'm doing and don't let myself feel accomplished when finish things.
 - Gotta attempt to stay more organized and simpler so, things can run more smoothly so, I don't get so burn-out as much.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 4:
+
+Tueday, July 26, 2022
+
+**Todays Progress:**
+- Worked on the [course hero login page](https://www.coursehero.com/login/?ref=login) with a friend side by side, but also chatted a bunch about goals and life.
+- Listened to the [Develop Yourself](https://open.spotify.com/show/69BHCbRAl6rHT9LlNhFWUy) podcast by Aaron Hayslip & Peter Elbaum. Always cool to hear what other developers have to say.
+- I worked on my Arch Linux install on my Macbook Pro and easily got the wifi driver installed so, I could use wifi on it. Took me ages to figure it out before, but because I did it before it was so much easier to do it now.
+
+**What I Learned:**
+- I seriously gotta get my goals in check and manage my tasks better. I got really burn-out today from thinking so much and it's not getting me anywhere.
+- Some great resources that I want to follow is [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=asc_df_0735211299/?tag=hyprod-20&linkCode=df0&hvadid=312014159412&hvpos=&hvnetw=g&hvrand=788027916322023639&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019691&hvtargid=pla-541463258824&psc=1) by James Clear and [Eat That Frog!](https://open.spotify.com/episode/6macBFlMWbmpFo4TmtR3MD) by Brian Tracy. These books have so much techniques, insight on finding bad habits, and best ways to optimize yourself to best fit your needs. 
 
 [⬆️ back to the top ](#log)
 
