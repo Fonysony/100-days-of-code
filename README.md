@@ -201,3 +201,20 @@ Tueday, July 26, 2022
 [⬆️ back to the top ](#log)
 
 ---
+
+### Day 5:
+
+Wednesday, July 27, 2022
+
+**Todays Progress:**
+- RE-listened to [Eat That Frog!](https://open.spotify.com/episode/6macBFlMWbmpFo4TmtR3MD) and actually applied what I learned from it! I did [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) for my very first frog. I choose to do the bootcamp first because I deemed it as the most important task for me to do, my most important frog to eat.
+- I did a couple sections on [Khan Academy's divide with remainder](https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders) section. I got suck on some of the word problems due to not understanding the problem well or couldn't wrap my head around fractions and division. I'm a little sad, but it will come with practice, I just gotta review it again.
+- I attempted to do the [Duplicate number in array](https://leetcode.com/problems/contains-duplicate/) Leetcode problem, I actually couldn't understand how to process with the problem, but once I checked the related topics section and realized it was part of the sorting problems, I figured out how to solve it. Still sad that I'm struggling with these problems, but I solved it so, who cares.
+
+**What I Learned:**
+- Organizing my environment ahead of time will help me be more productive and planning out my week will help with staying on track.
+- Finishing my most important task first will really help me stay on task at the start, then I'm more able to procrastinate on my little task cause it's inevitable. 
+
+[⬆️ back to the top ](#log)
+
+---
