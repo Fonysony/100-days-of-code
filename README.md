@@ -32,9 +32,9 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 2    | [Day 2:](#day-2)     | C++, html, css, JS             |         |
 | 3    | [Day 3:](#day-3)     | JS, html, css                  |         |
 | 4    | [Day 4:](#day-4)     | html, css, Arch                |         |
-| 5    | [Day 5:](#day-5)     |                                |         |
-| 6    | [Day 6:](#day-6)     |                                |         |
-| 7    | [Day 7:](#day-7)     |                                |         |
+| 5    | [Day 5:](#day-5)     | JS, Mongoose                   |         |
+| 6    | [Day 6:](#day-6)     | html, css, jS, Mongoose        |         |
+| 7    | [Day 7:](#day-7)     | js, Mongoose                   |         |
 | 8    | [Day 8:](#day-8)     |                                |         |
 | 9    | [Day 9:](#day-9)     |                                |         |
 | 10   | [Day 10:](#day-10)   |                                |         |
@@ -214,6 +214,38 @@ Wednesday, July 27, 2022
 **What I Learned:**
 - Organizing my environment ahead of time will help me be more productive and planning out my week will help with staying on track.
 - Finishing my most important task first will really help me stay on task at the start, then I'm more able to procrastinate on my little task cause it's inevitable. 
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 6:
+
+Thursday, July 28, 2022
+
+**Todays Progress:**
+- I showed one of my new friends my course-hero clone that I'm doing and let him show me his methods of doing the css. We talked for a while and now I feel more confident with my css skills. The code doesn't have to be perfect, if it works it works. 
+- Listened to a book about power and deception.
+
+**What I Learned:**
+- If you talk to much, you have more of the odds of saying something foolish than saying less.
+- If you keep things vague, people might think of you as smarter and attempting to understand what exactly do you mean.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 7:
+
+Friday, July 29, 2022
+
+**Todays Progress:**
+- Worked on [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) and feel pretty good about routes. Just gotta keep hacking away at it.
+- Got bluetooth working with Arch Linux using the bluez and bluetoothctl package. 
+
+**What I Learned:**
+- Somedays you won't get much done, but it's better to do something than nothing. 
+- I'm exicted and motivated to get better at css! I can't wait to make thing and make it look good. After that, I can work on my backend and DOM skills.
 
 [⬆️ back to the top ](#log)
 
