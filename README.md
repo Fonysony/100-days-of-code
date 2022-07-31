@@ -35,7 +35,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 5    | [Day 5:](#day-5)     | JS, Mongoose                   |         |
 | 6    | [Day 6:](#day-6)     | html, css, jS, Mongoose        |         |
 | 7    | [Day 7:](#day-7)     | js, Mongoose                   |         |
-| 8    | [Day 8:](#day-8)     |                                |         |
+| 8    | [Day 8:](#day-8)     | js, C++, Mongoose, Arch        |         |
 | 9    | [Day 9:](#day-9)     |                                |         |
 | 10   | [Day 10:](#day-10)   |                                |         |
 | 11   | [Day 11:](#day-11)   |                                |         |
@@ -246,6 +246,22 @@ Friday, July 29, 2022
 **What I Learned:**
 - Somedays you won't get much done, but it's better to do something than nothing. 
 - I'm exicted and motivated to get better at css! I can't wait to make thing and make it look good. After that, I can work on my backend and DOM skills.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 8:
+
+Saturday, July 30, 2022
+
+**Todays Progress:**
+- Worked on [Valid Anagram](https://leetcode.com/problems/valid-anagram/) with a friend on Discord and struggled through it, but after 40 minutes of doing it my way, I got it to work with the help of the friend.
+- Later work on some C++ with another friend, just going over the basics.
+
+**What I Learned:**
+- Today I had the whole day to do my things and most of it was wasted. I Gotta seriously make sure that I get my big tasks run right away before starting anything else so, I at least have my things done and can slack off then.
+- Somedays will be like this, but I must not get discourged. 
 
 [⬆️ back to the top ](#log)
 
