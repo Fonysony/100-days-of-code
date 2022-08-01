@@ -36,7 +36,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 6    | [Day 6:](#day-6)     | html, css, jS, Mongoose        |         |
 | 7    | [Day 7:](#day-7)     | js, Mongoose                   |         |
 | 8    | [Day 8:](#day-8)     | js, C++, Mongoose, Arch        |         |
-| 9    | [Day 9:](#day-9)     |                                |         |
+| 9    | [Day 9:](#day-9)     | Arch, Vim                      |         |
 | 10   | [Day 10:](#day-10)   |                                |         |
 | 11   | [Day 11:](#day-11)   |                                |         |
 | 12   | [Day 12:](#day-12)   |                                |         |
@@ -262,6 +262,21 @@ Saturday, July 30, 2022
 **What I Learned:**
 - Today I had the whole day to do my things and most of it was wasted. I Gotta seriously make sure that I get my big tasks run right away before starting anything else so, I at least have my things done and can slack off then.
 - Somedays will be like this, but I must not get discourged. 
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 8:
+
+Sunday, July 31, 2022
+
+**Todays Progress:**
+- Messed with Arch Linux a ton, I got a background, transparent terminals, and learning more about Vim. I did some of the Vim's tutorial and watched videos on how to add plugins into NeoVim.
+
+**What I Learned:**
+- I'm getting very distracted from doing actual code. I've been watching anime again and read manga which is taking a lot of my time. It's really hard to fight the urge right now even.
+- I can no get discourged and keep moving towards my goals. 
 
 [⬆️ back to the top ](#log)
 
