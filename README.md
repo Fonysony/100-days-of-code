@@ -37,8 +37,8 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 7    | [Day 7:](#day-7)     | js, Mongoose                   |         |
 | 8    | [Day 8:](#day-8)     | js, C++, Mongoose, Arch        |         |
 | 9    | [Day 9:](#day-9)     | Arch, Vim                      |         |
-| 10   | [Day 10:](#day-10)   |                                |         |
-| 11   | [Day 11:](#day-11)   |                                |         |
+| 10   | [Day 10:](#day-10)   | html, css                      |         |
+| 11   | [Day 11:](#day-11)   | ejs, Bootstrap, js             |         |
 | 12   | [Day 12:](#day-12)   |                                |         |
 | 13   | [Day 13:](#day-13)   |                                |         |
 | 14   | [Day 14:](#day-14)   |                                |         |
@@ -267,7 +267,7 @@ Saturday, July 30, 2022
 
 ---
 
-### Day 8:
+### Day 9:
 
 Sunday, July 31, 2022
 
@@ -277,6 +277,37 @@ Sunday, July 31, 2022
 **What I Learned:**
 - I'm getting very distracted from doing actual code. I've been watching anime again and read manga which is taking a lot of my time. It's really hard to fight the urge right now even.
 - I can no get discourged and keep moving towards my goals. 
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 10:
+
+Monday, August 1, 2022
+
+**Todays Progress:**
+- Worked on the [404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) page on the [dev challenges](https://devchallenges.io/) website where you can choose a guided path to learn from. Their front-end projects so, far look cool so, I decided to try it out with a friend. I didn't finish it yet, but I will finish in this week.
+
+**What I Learned:**
+- Sometimes you will have bad days, bad weeks or bad years, but you can't let that stop you from making a change. Lately I feel like I haven't done enough then I should have, but that's the past and all that matters what I can accomplish today.
+- All I can say is, don't get addicated to anime cause it's gonna hurt 😢.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 11:
+
+Tuesday, August 2, 2022
+
+**Todays Progress:**
+- Followed along with [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), just messed with some ejs-mate and some Bootstrap.
+- I finally only need to finish the unit test on [Khan Academy's Divide with remainders](https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders) section! I'm almost half way to finishing Arithmetic on Khan Academy!
+- Attempted to do the [group-anagrams](https://leetcode.com/problems/group-anagrams/) problem on Leetcode for 25 minutes and because I have already learned from the pervious anagram problem I did, I actaully could solve this! It's my first medium problem I'm attempting to solve too! Even if I don't get it, I'll feel proud for at least knowing where to start solving it. 
+
+**What I Learned:**
+- It's always a daily battle, you must create good habits that bring you towards your goals. You always gotta ask yourself, is this what am I suppose to be doing right now? Am I moving towards my goals if I finish this? Throughout the day you must consistently ask this to yourself.
 
 [⬆️ back to the top ](#log)
 
