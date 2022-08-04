@@ -39,7 +39,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 9    | [Day 9:](#day-9)     | Arch, Vim                      |         |
 | 10   | [Day 10:](#day-10)   | html, css                      |         |
 | 11   | [Day 11:](#day-11)   | ejs, Bootstrap, js             |         |
-| 12   | [Day 12:](#day-12)   |                                |         |
+| 12   | [Day 12:](#day-12)   | ejs, Bootstrap, Arch           |         |
 | 13   | [Day 13:](#day-13)   |                                |         |
 | 14   | [Day 14:](#day-14)   |                                |         |
 | 15   | [Day 15:](#day-15)   |                                |         |
@@ -308,6 +308,23 @@ Tuesday, August 2, 2022
 
 **What I Learned:**
 - It's always a daily battle, you must create good habits that bring you towards your goals. You always gotta ask yourself, is this what am I suppose to be doing right now? Am I moving towards my goals if I finish this? Throughout the day you must consistently ask this to yourself.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 12:
+
+Wednesday, August 3, 2022
+
+**Todays Progress:**
+- Finally finished the [Khan Academy's Divide with remainders](https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders) section! I can move on to other maths now! I just gotta keep going everyday.
+- Was setuping up ejs-mate with Bootstrap on [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
+- Learned that the [yay](https://aur.archlinux.org/packages/yay) is an offset of pacman and can be used to download load AUR packages. I keep running to pacman not being able to download an AUR package, but hopefully once I use yay, I won't have that problem.
+
+**What I Learned:**
+- I seriously need to keep asking myself, "what I'm I doing right now moving me towards my goals?" because I keep end up wasting a lot of time just talking with people. My time is better of spent coding more and talking just a little bit.
+- I'm starting to realize that coding is mainly a lonely journey. You can't always have a pair programmer going through the same journey with you all the time, not like a party in a rpg game. Maybe I haven't found the right people to work with consistently, but I can't always rely on other people to make my own progress. Just wish I could do more things with people and share knowledge more consistently.
 
 [⬆️ back to the top ](#log)
 
