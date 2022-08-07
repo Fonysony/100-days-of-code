@@ -40,8 +40,8 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 10   | [Day 10:](#day-10)   | html, css                      |         |
 | 11   | [Day 11:](#day-11)   | ejs, Bootstrap, js             |         |
 | 12   | [Day 12:](#day-12)   | ejs, Bootstrap, Arch           |         |
-| 13   | [Day 13:](#day-13)   |                                |         |
-| 14   | [Day 14:](#day-14)   |                                |         |
+| 13   | [Day 13:](#day-13)   | Arch           |         |
+| 14   | [Day 14:](#day-14)   | Arch Linux BABY FIRE DAY!!     |         |
 | 15   | [Day 15:](#day-15)   |                                |         |
 | 16   | [Day 16:](#day-16)   |                                |         |
 | 17   | [Day 17:](#day-17)   |                                |         |
@@ -325,6 +325,51 @@ Wednesday, August 3, 2022
 **What I Learned:**
 - I seriously need to keep asking myself, "what I'm I doing right now moving me towards my goals?" because I keep end up wasting a lot of time just talking with people. My time is better of spent coding more and talking just a little bit.
 - I'm starting to realize that coding is mainly a lonely journey. You can't always have a pair programmer going through the same journey with you all the time, not like a party in a rpg game. Maybe I haven't found the right people to work with consistently, but I can't always rely on other people to make my own progress. Just wish I could do more things with people and share knowledge more consistently.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 13:
+
+Thursday, August 4, 2022
+
+**Todays Progress:**
+- Started to style the ejs pages with Bootstrap more. [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- Switched to the awesome dynamic window manager, just figuring out how to configure everything which is a bit overwhelming.
+
+**What I Learned:**
+- Soon or later I will get everything working. I just gotta keep trying.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 14:
+
+Friday, August 5, 2022
+
+**Todays Progress:**
+- Worked on Arch Linux, got my Neovim all setup sort of and been learning how to use the Awesomewm better.
+
+**What I Learned:**
+- Soon or later I will get everything working. I just gotta keep trying.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 14:
+
+Thursday, August 6, 2022
+
+**Todays Progress:**
+- Got up late, but worked on Arch Linux the whole day!
+- Worked on getting my ssh working on Arch and oh boy it was an issue for the whole day.
+
+**What I Learned:**
+- My wifi driver was freezing so, I had to upgrade my wifi driver to a better one. I only figured this out from hours of trying to figure-out why it was an issue. I had a friend help me for hours trying to get it to work, he was telling my ssh in general was the issue. He suggested that I try it in the live bootable usb drive, I decided to try and he was right! My Arch install was having some sort of issue and I didn't know what was happening.
+- I decided re-install Arch Linux entirely so, I copied all my config files into a usb drive so, I could use them later, but it took me awhile to figure-out how to copy it into the usb drive through the terminal, my friend helped me with this. This skill will actually help me later in the process which is insane to think about.
 
 [⬆️ back to the top ](#log)
 
