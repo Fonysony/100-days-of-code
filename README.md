@@ -384,6 +384,7 @@ Thursday, August 7, 2022
 **Todays Progress:**
 - Worked on Arch pretty much the whole day, but also talked with people a bunch.
 - Got VS Code installed and figured-out why my live share extension in VS Code wasn't working.
+- Finally got a Leetcode problem done with a friend. I'm gonna start grinding on it again.
 
 **What I Learned:**
 - I first got the VS-Code OSS version which is the open source VS code, but it doesn't even have the live share extension.
