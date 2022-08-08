@@ -40,10 +40,10 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 10   | [Day 10:](#day-10)   | html, css                      |         |
 | 11   | [Day 11:](#day-11)   | ejs, Bootstrap, js             |         |
 | 12   | [Day 12:](#day-12)   | ejs, Bootstrap, Arch           |         |
-| 13   | [Day 13:](#day-13)   | Arch           |         |
-| 14   | [Day 14:](#day-14)   | Arch Linux BABY FIRE DAY!!     |         |
-| 15   | [Day 15:](#day-15)   |                                |         |
-| 16   | [Day 16:](#day-16)   |                                |         |
+| 13   | [Day 13:](#day-13)   | Arch                           |         |
+| 14   | [Day 14:](#day-14)   | Arch again....                 |         |
+| 15   | [Day 15:](#day-15)   | Arch Linux BABY FIRE DAY!!     |         |
+| 16   | [Day 16:](#day-16)   | Arch, js                       |         |
 | 17   | [Day 17:](#day-17)   |                                |         |
 | 18   | [Day 18:](#day-18)   |                                |         |
 | 19   | [Day 19:](#day-19)   |                                |         |
@@ -359,7 +359,7 @@ Friday, August 5, 2022
 
 ---
 
-### Day 14:
+### Day 15:
 
 Thursday, August 6, 2022
 
@@ -368,8 +368,28 @@ Thursday, August 6, 2022
 - Worked on getting my ssh working on Arch and oh boy it was an issue for the whole day.
 
 **What I Learned:**
-- My wifi driver was freezing so, I had to upgrade my wifi driver to a better one. I only figured this out from hours of trying to figure-out why it was an issue. I had a friend help me for hours trying to get it to work, he was telling my ssh in general was the issue. He suggested that I try it in the live bootable usb drive, I decided to try and he was right! My Arch install was having some sort of issue and I didn't know what was happening.
-- I decided re-install Arch Linux entirely so, I copied all my config files into a usb drive so, I could use them later, but it took me awhile to figure-out how to copy it into the usb drive through the terminal, my friend helped me with this. This skill will actually help me later in the process which is insane to think about.
+- My wifi driver was freezing so, I had to upgrade my wifi driver to a better one. I only figured this out from hours of trying to figure-out why it was an issue. I had a friend help me for hours trying to get it to work, he was telling my ssh in general was the issue so, he suggested that I try it in the live bootable usb drive. I decided to try in the bootable usb drive and he was right! My Arch install was having some sort of issue and I didn't know what was happening.
+- I decided re-install Arch Linux entirely so, I copied all my config files into a usb drive so, I could save them, but it took me awhile to figure-out how to copy it into the usb drive through the terminal, my friend helped me with this. This skill will actually help me later in the process to download package in chroot whiching booting on the bootable usb drive.
+- Once I got everything installed, I booted into the installed hard disk and was having wifi issues cause I didn't download them in the install script I was using. I was thinking of reseting the whole script install, but I wanted to see if I could some how download packages while using the bootable usb drive and once I figured out that you can arch-chroot to the disk drive and download packages from there, was I big brain moment for me!
+- The linux-header package actually has the b43-firmware-wl as it's dependences if I'm correct so, next time if I do I new install on Arch I'm gonna attempt doing that.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 16:
+
+Thursday, August 7, 2022
+
+**Todays Progress:**
+- Worked on Arch pretty much the whole day, but also talked with people a bunch.
+- Got VS Code installed and figured-out why my live share extension in VS Code wasn't working.
+
+**What I Learned:**
+- I first got the VS-Code OSS version which is the open source VS code, but it doesn't even have the live share extension.
+- Decided to get the Visual Studio Code .deb download from their actual website, but it was recommended to convert the .deb with debtap to an makepkg so, it could be download as an Arch package.
+- I coverted and downloaded it, but it didn't even have the shell path for code so, I couldn't use the code command in the terminal.
+- Finally, I got the Arch Visual Studio Code-bin package from the AUR and got the live share extension. Was still running into issues with live share but, I had the extension and I had the code command in the terminal. All I had to do was download icu69 package. This shows what you need in-order for live-share to work on Arch. [live-share-prerequisites](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/linux#install-linux-prerequisites)
 
 [⬆️ back to the top ](#log)
 
