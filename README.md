@@ -162,7 +162,7 @@ Sunday, July 24, 2022
 
 **What I Learned:**
 - Working with people can really help inspire to do more thing, but also waste some time if you're not careful. Just don't keep talking all day long and not do anything.
-- I can actually download the code and clean it up just to see how a website works! I hope to soon rewrite the whole code my own way so, that I know I truly understand it. 
+- I can actually download the code and clean it up just to see how a website works! I hope to soon rewrite the whole code my own way so, that I know I truly understand it.
 [⬆️ back to the top ](#log)
 
 ---
@@ -196,7 +196,7 @@ Tueday, July 26, 2022
 
 **What I Learned:**
 - I seriously gotta get my goals in check and manage my tasks better. I got really burn-out today from thinking so much and it's not getting me anywhere.
-- Some great resources that I want to follow is [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=asc_df_0735211299/?tag=hyprod-20&linkCode=df0&hvadid=312014159412&hvpos=&hvnetw=g&hvrand=788027916322023639&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019691&hvtargid=pla-541463258824&psc=1) by James Clear and [Eat That Frog!](https://open.spotify.com/episode/6macBFlMWbmpFo4TmtR3MD) by Brian Tracy. These books have so much techniques, insight on finding bad habits, and best ways to optimize yourself to best fit your needs. 
+- Some great resources that I want to follow is [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=asc_df_0735211299/?tag=hyprod-20&linkCode=df0&hvadid=312014159412&hvpos=&hvnetw=g&hvrand=788027916322023639&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9019691&hvtargid=pla-541463258824&psc=1) by James Clear and [Eat That Frog!](https://open.spotify.com/episode/6macBFlMWbmpFo4TmtR3MD) by Brian Tracy. These books have so much techniques, insight on finding bad habits, and best ways to optimize yourself to best fit your needs.
 
 [⬆️ back to the top ](#log)
 
@@ -213,7 +213,7 @@ Wednesday, July 27, 2022
 
 **What I Learned:**
 - Organizing my environment ahead of time will help me be more productive and planning out my week will help with staying on track.
-- Finishing my most important task first will really help me stay on task at the start, then I'm more able to procrastinate on my little task cause it's inevitable. 
+- Finishing my most important task first will really help me stay on task at the start, then I'm more able to procrastinate on my little task cause it's inevitable.
 
 [⬆️ back to the top ](#log)
 
@@ -224,7 +224,7 @@ Wednesday, July 27, 2022
 Thursday, July 28, 2022
 
 **Todays Progress:**
-- I showed one of my new friends my course-hero clone that I'm doing and let him show me his methods of doing the css. We talked for a while and now I feel more confident with my css skills. The code doesn't have to be perfect, if it works it works. 
+- I showed one of my new friends my course-hero clone that I'm doing and let him show me his methods of doing the css. We talked for a while and now I feel more confident with my css skills. The code doesn't have to be perfect, if it works it works.
 - Listened to a book about power and deception.
 
 **What I Learned:**
@@ -241,10 +241,10 @@ Friday, July 29, 2022
 
 **Todays Progress:**
 - Worked on [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) and feel pretty good about routes. Just gotta keep hacking away at it.
-- Got bluetooth working with Arch Linux using the bluez and bluetoothctl package. 
+- Got bluetooth working with Arch Linux using the bluez and bluetoothctl package.
 
 **What I Learned:**
-- Somedays you won't get much done, but it's better to do something than nothing. 
+- Somedays you won't get much done, but it's better to do something than nothing.
 - I'm exicted and motivated to get better at css! I can't wait to make thing and make it look good. After that, I can work on my backend and DOM skills.
 
 [⬆️ back to the top ](#log)
@@ -261,7 +261,7 @@ Saturday, July 30, 2022
 
 **What I Learned:**
 - Today I had the whole day to do my things and most of it was wasted. I Gotta seriously make sure that I get my big tasks run right away before starting anything else so, I at least have my things done and can slack off then.
-- Somedays will be like this, but I must not get discourged. 
+- Somedays will be like this, but I must not get discourged.
 
 [⬆️ back to the top ](#log)
 
@@ -276,7 +276,7 @@ Sunday, July 31, 2022
 
 **What I Learned:**
 - I'm getting very distracted from doing actual code. I've been watching anime again and read manga which is taking a lot of my time. It's really hard to fight the urge right now even.
-- I can no get discourged and keep moving towards my goals. 
+- I can no get discourged and keep moving towards my goals.
 
 [⬆️ back to the top ](#log)
 
@@ -304,7 +304,7 @@ Tuesday, August 2, 2022
 **Todays Progress:**
 - Followed along with [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), just messed with some ejs-mate and some Bootstrap.
 - I finally only need to finish the unit test on [Khan Academy's Divide with remainders](https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders) section! I'm almost half way to finishing Arithmetic on Khan Academy!
-- Attempted to do the [group-anagrams](https://leetcode.com/problems/group-anagrams/) problem on Leetcode for 25 minutes and because I have already learned from the pervious anagram problem I did, I actaully could solve this! It's my first medium problem I'm attempting to solve too! Even if I don't get it, I'll feel proud for at least knowing where to start solving it. 
+- Attempted to do the [group-anagrams](https://leetcode.com/problems/group-anagrams/) problem on Leetcode for 25 minutes and because I have already learned from the pervious anagram problem I did, I actaully could solve this! It's my first medium problem I'm attempting to solve too! Even if I don't get it, I'll feel proud for at least knowing where to start solving it.
 
 **What I Learned:**
 - It's always a daily battle, you must create good habits that bring you towards your goals. You always gotta ask yourself, is this what am I suppose to be doing right now? Am I moving towards my goals if I finish this? Throughout the day you must consistently ask this to yourself.
@@ -361,7 +361,7 @@ Friday, August 5, 2022
 
 ### Day 15:
 
-Thursday, August 6, 2022
+Saturday, August 6, 2022
 
 **Todays Progress:**
 - Got up late, but worked on Arch Linux the whole day!
@@ -379,7 +379,7 @@ Thursday, August 6, 2022
 
 ### Day 16:
 
-Thursday, August 7, 2022
+Sunday, August 7, 2022
 
 **Todays Progress:**
 - Worked on Arch pretty much the whole day, but also talked with people a bunch.
@@ -395,3 +395,21 @@ Thursday, August 7, 2022
 [⬆️ back to the top ](#log)
 
 ---
+
+### Day 17:
+
+Monday, August 8, 2022
+
+**Todays Progress:**
+- I decided to not care about what happen yestorday and just worry about the present day. I was able to do a review on what I need to do in the current day and I think that has helped me to focus better.
+- Worked on (create a target array in given order)[https://leetcode.com/problems/create-target-array-in-the-given-order] and beacuse I went over insertion before in the explorer page of Leetcode, I was able figure what to actually do to solve the problem. I have not solved the problem yet, but I'm very close.
+- I've been forcing myself to type properly and to learn vim, I think I'm seeing my typing getting faster and I'm getting used to using vim.
+
+**What I Learned:**
+- I made some goals and actually full-filled them, why do I need to feel like I've done nothing when I clearly did the things I wrote down? I won't be able to code 247, but if I'm staying consistent, that's all that matters.
+- It feels great to be able to finally use my Arch Linux setup after all that work to get it up and running. I still don't have much, but why do I need to wait to starting working my goals? It works right now and I can learn how to do the things I wanna do while using the setup. Why waited and waste time?
+
+[⬆️ back to the top ](#log)
+
+---
+
