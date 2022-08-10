@@ -413,3 +413,21 @@ Monday, August 8, 2022
 
 ---
 
+### Day 18:
+
+Tueday, August 9, 2022
+
+**Todays Progress:**
+- Finally got (create a target array in given order)[https://leetcode.com/problems/create-target-array-in-the-given-order] done, it felt good to be able to use my past knowledge I learned from data structures and algorithm.
+- Got Mongoose setup with a MongoDB atlas cloud server! I'm glad I attempted and it wasn't too diffcult to do.
+- A friend helped me setup (AstroVim)[https://astronvim.github.io/], lsp, and eslint to work on my NeoVim, but I'm currently still running into some issues. I'm super glad I tried out eslint cause I didn't really know what it was, it seriously helps with writting code.
+- My typing speed is getting faster and I'm also getting used to Vim already. So, glad I went down this route, only issue is that I feel like my arms could have an issue with the way type and support my wrists.
+
+**What I Learned:**
+- Being able to do my tasks first before I start chatting with people is a plus so, I can focus on what I'm doing. Putting more time in to projects will help me feel better about my productivity.
+- Doing Leetcode problems with people on the other hand will really help my communication skills and problem solving skills because I get to see how other people problem solve. I think it's best to at least do one problem on my own and one with someone so, I can at least finish a problem daily if I'm unable to finish it with them.
+
+[⬆️ back to the top ](#log)
+
+---
+
