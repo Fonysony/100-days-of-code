@@ -47,7 +47,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 18   | [Day 18:](#day-18)   | js, Mongoose               |     |
 | 19   | [Day 19:](#day-19)   | neovim, Arch               |     |
 | 20   | [Day 20:](#day-20)   | Bootstrap, ejs             |     |
-| 21   | [Day 21:](#day-21)   |                            |     |
+| 21   | [Day 21:](#day-21)   | Bootstrap, ejs, js         |     |
 | 22   | [Day 22:](#day-22)   |                            |     |
 | 23   | [Day 23:](#day-23)   |                            |     |
 | 24   | [Day 24:](#day-24)   |                            |     |
@@ -507,10 +507,13 @@ Friday, August 12, 2022
 
 - Worked on [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), almost done with the front-end stuff and be moving on to error handling later.
 - Half way through (khanacademy's add-and-subtract-fraction-like-denominators)[https://www.khanacademy.org/math/arithmetic/x18ca194a:add-and-subtract-fraction-like-denominators]!
+- Worked on [merged-sort](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) with a friend, didn't get to use the algorithm a learned though.
+
   **What I Learned:**
 
 - Have the urgentence to get things done now! Say out loud "back to work, back to work. I'm highly proudtive person, would a productive person wait?"
 - Don't let the past get ahead of you and your future! The past is the past, who cares what happened and don't even think about it.
+- Keep track of my goals and stay on top of them. I just gotta finish this course and do things that interests me.
 
 [⬆️ back to the top ](#log)
 
