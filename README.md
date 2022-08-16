@@ -43,14 +43,14 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 14   | [Day 14:](#day-14)   | Arch again....             |     |
 | 15   | [Day 15:](#day-15)   | Arch Linux BABY FIRE DAY!! |     |
 | 16   | [Day 16:](#day-16)   | Arch, js                   |     |
-| 17   | [Day 17:](#day-17)   |                            |     |
+| 17   | [Day 17:](#day-17)   | Arch, js                   |     |
 | 18   | [Day 18:](#day-18)   | js, Mongoose               |     |
 | 19   | [Day 19:](#day-19)   | neovim, Arch               |     |
 | 20   | [Day 20:](#day-20)   | Bootstrap, ejs             |     |
 | 21   | [Day 21:](#day-21)   | Bootstrap, ejs, js         |     |
-| 22   | [Day 22:](#day-22)   |                            |     |
-| 23   | [Day 23:](#day-23)   |                            |     |
-| 24   | [Day 24:](#day-24)   |                            |     |
+| 22   | [Day 22:](#day-22)   | js                         |     |
+| 23   | [Day 23:](#day-23)   | js                         |     |
+| 24   | [Day 24:](#day-24)   | Bootstrap, ejs, js         |     |
 | 25   | [Day 25:](#day-25)   |                            |     |
 | 26   | [Day 26:](#day-26)   |                            |     |
 | 27   | [Day 27:](#day-27)   |                            |     |
@@ -490,7 +490,7 @@ Thursday, August 11, 2022
 - I also helped a friend get VS-Code live share working on Arch Linux, I'm so glad I'm learning and able to help someone with what I've learned.
 - Looked into cpu scaling on Arch Linux, but haven't read much on it.
 
-  **What I Learned:**
+**What I Learned:**
 
 - Keep things rolling, always keep on track.
 - I need to finish this neovim things so I can forget out it and work heavily on actually coding.
@@ -509,7 +509,7 @@ Friday, August 12, 2022
 - Half way through (khanacademy's add-and-subtract-fraction-like-denominators)[https://www.khanacademy.org/math/arithmetic/x18ca194a:add-and-subtract-fraction-like-denominators]!
 - Worked on [merged-sort](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) with a friend, didn't get to use the algorithm a learned though.
 
-  **What I Learned:**
+**What I Learned:**
 
 - Have the urgentence to get things done now! Say out loud "back to work, back to work. I'm highly proudtive person, would a productive person wait?"
 - Don't let the past get ahead of you and your future! The past is the past, who cares what happened and don't even think about it.
@@ -518,3 +518,50 @@ Friday, August 12, 2022
 [⬆️ back to the top ](#log)
 
 ---
+
+### Day 22:
+
+Saturday, August 13, 2022
+
+**Todays Progress:**
+- Worked a ton with a friend and he showed me how arrays really work and what is a dynamic vectors.
+- Watched a video on the [merged-sort](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) Leetcode problem, but haven't finised the problem.
+- Same old same old Kham Academy fractions
+
+**What I Learned:**
+- I'm losing track and don't really know what to do about. I probably gotta do a little writing throughout the days so, I don't give up on this. 
+
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 23:
+
+Sunday, August 14, 2022
+
+**Todays Progress:**
+- Didn't much done today, but I worked on the same Leetcode problem.
+
+
+**What I Learned:**
+- Seriously need to find a new routine for writing, at least my typing is so much better now.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 24:
+
+Monday, August 15, 2022
+
+**Todays Progress:**
+- Finished the front-end for YelpCamp! I started to get into error handling now.
+- 5 minutes of listening Eat That Frog.
+
+**What I Learned:**
+- I switched things up and actually made some progress, but at the end of the day I lost focus and didn't finish all the tasks I set out to complete today.
+- I must work on my writing cause I'm losing the streaks, I'm making up for other days in the same day it's getting tiring cleaning up the mess. 
+
+[⬆️ back to the top ](#log)
+
