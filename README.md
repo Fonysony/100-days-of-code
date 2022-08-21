@@ -55,7 +55,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 26   | [Day 26:](#day-26)   |                            |     |
 | 27   | [Day 27:](#day-27)   |                            |     |
 | 28   | [Day 28:](#day-28)   |                            |     |
-| 29   | [Day 29:](#day-29)   |                            |     |
+| 29   | [Day 29:](#day-29)   | js, Wechat                 |     |
 | 30   | [Day 30:](#day-30)   |                            |     |
 | 31   | [Day 31:](#day-31)   |                            |     |
 | 32   | [Day 32:](#day-32)   |                            |     |
@@ -564,4 +564,47 @@ Monday, August 15, 2022
 - I must work on my writing cause I'm losing the streaks, I'm making up for other days in the same day it's getting tiring cleaning up the mess. 
 
 [⬆️ back to the top ](#log)
+
+---
+
+### Day 25:
+
+Tueday, August 16, 2022
+
+---
+
+### Day 26:
+
+Wednesday, August 17, 2022
+
+---
+
+### Day 27:
+
+Thursday, August 18, 2022
+
+---
+
+### Day 28:
+
+Friday, August 19, 2022
+
+--- 
+
+### Day 29:
+
+Monday, August 20, 2022
+
+**Todays Progress:**
+- Finished Handling errors in [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
+- Worked on [Khan Academy's add-and-subtract-fraction-like-denominators](https://www.khanacademy.org/math/arithmetic/x18ca194a:add-and-subtract-fraction-like-denominators), I'm so close in finishing this section!
+- Watched and solved the [merged-sort](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) soltion. I need to really look at the code and try to understand it better.
+- Started to look into Wechat mini-games and got the [Weixin Devtools](https://developers.weixin.qq.com/miniprogram/en/dev/devtools/devtools.html) on Arch Linux through the AUR.
+
+**What I Learned:**
+- I just gotta be more specific on the task I will be doing in the day. I also, gotta listen to motivation things throughout the day, it seriously helps.
+- Take breaks is ok and honestly resting when getting stressed out is super helpful, even though that's obvious I still don't apply it. 
+[⬆️ back to the top ](#log)
+
+---
 
