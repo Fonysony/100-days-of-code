@@ -56,7 +56,7 @@ I've decided today that I'm ready to take on this huge challenge! I finally was 
 | 27   | [Day 27:](#day-27)   |                            |     |
 | 28   | [Day 28:](#day-28)   |                            |     |
 | 29   | [Day 29:](#day-29)   | js, Wechat                 |     |
-| 30   | [Day 30:](#day-30)   |                            |     |
+| 30   | [Day 30:](#day-30)   | js                         |     |
 | 31   | [Day 31:](#day-31)   |                            |     |
 | 32   | [Day 32:](#day-32)   |                            |     |
 | 33   | [Day 33:](#day-33)   |                            |     |
@@ -593,7 +593,7 @@ Friday, August 19, 2022
 
 ### Day 29:
 
-Monday, August 20, 2022
+Saturday, August 20, 2022
 
 **Todays Progress:**
 - Finished Handling errors in [Colt Steele's Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
@@ -604,6 +604,22 @@ Monday, August 20, 2022
 **What I Learned:**
 - I just gotta be more specific on the task I will be doing in the day. I also, gotta listen to motivation things throughout the day, it seriously helps.
 - Take breaks is ok and honestly resting when getting stressed out is super helpful, even though that's obvious I still don't apply it. 
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 30:
+
+Sunday, August 20, 2022
+
+**Todays Progress:**
+- Didn't get much time to work om things today.
+- I decided to learn some more html-canvas and found a great GitHub for it. [canvas-examples](https://github.com/dustinpfister/canvas-examples) 
+
+**What I Learned:**
+- Sometimes working on the things you actually want to work on will motivated to push through.
+- My plan is to make something that can be used with html-canvas games, like a stats website or something.
+
 [⬆️ back to the top ](#log)
 
 ---
